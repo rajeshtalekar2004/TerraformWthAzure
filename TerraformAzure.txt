@@ -1,0 +1,7 @@
+00. Learning
+	https://eylearning.udemy.com/course/terraform-on-azure-services/learn/lecture/32468848#overview
+	
+01. 	
+	tenantId = "3e39c98f-19b9-40e9-a728-6a8aadf9a5bd"
+	subscription_id = "b625081e-6ef3-42ed-b6da-3fe86fa84737"
+	name = "talekar_rajesh@rediffmail.com"

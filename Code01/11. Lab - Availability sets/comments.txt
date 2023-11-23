@@ -1,0 +1,1 @@
+terraform plan -out main.tfplan -var="number_of_subnets=3" -var="number_of_machines=3"

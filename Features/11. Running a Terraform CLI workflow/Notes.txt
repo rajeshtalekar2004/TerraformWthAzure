@@ -1,0 +1,5 @@
+terraform login 
+terraform workspace list
+terraform workspace new staging
+terraform workspace select Staging
+terraform workspace show
